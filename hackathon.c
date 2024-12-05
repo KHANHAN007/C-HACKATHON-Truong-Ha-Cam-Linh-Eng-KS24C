@@ -12,7 +12,7 @@ int main()
         printf("1. Nhap so phan tu va gia tri cho mang.\n");
         printf("2. In ra gia tri cac phan tu trong mang.\n");
         printf("3. Dem so luong cac so nguyen to co trong mang.\n");
-        printf("4. Tim gia tri nho thu 2 trong mang.\n");
+        printf("4. Tim gia tri lon thu 2 trong mang.\n");
         printf("5. Them phan tu vao mang.\n");
         printf("6. Xoa phan tu tai mot vi tri cu the.\n");
         printf("7. Sap xep mang theo thu tu giam dan.\n");
